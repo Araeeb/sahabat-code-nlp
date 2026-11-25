@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+tabulate
+joblib
+sentence-transformers
+faiss-cpu
+gradio
+fastapi
+uvicorn
+pytest

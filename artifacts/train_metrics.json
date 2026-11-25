@@ -1,0 +1,8 @@
+{
+  "preproc_version": "1.0.0",
+  "n_train": 33,
+  "n_test": 12,
+  "baseline_macro_f1": 0.486,
+  "camelbert_macro_f1": 0.579,
+  "gain_points": 9.3
+}

@@ -1,0 +1,46 @@
+project_id,team_id,category,language,dialect,text
+1,1,ai,ar,msa,سلة مهملات ذكية تفرز النفايات باستخدام الذكاء الاصطناعي
+2,1,ai,ar,msa,سلة ذكية تتعرف على البلاستيك والورق والمعدن بالكاميرا و OpenCV
+3,2,ai,ar,msa,منصة تعليم برمجة تتكيف مع مستوى الطالب بالذكاء الاصطناعي
+4,2,ai,ar,msa,نظام تعليم ذكي يقترح تمارين برمجة حسب أداء الطالب
+5,3,ai,ar,msa,نموذج يحلل مشاعر الطلاب من تقييمات المقررات باستخدام BERT
+6,3,ai,ar,saudi,سوينا موديل يعرف اذا تقييم المقرر ايجابي ولا سلبي
+7,4,ai,en,en,A deep learning model that detects plant diseases from leaf images
+8,4,ai,en,en,CNN that classifies healthy and infected leaves from photos
+9,5,ai,ar,msa,شات بوت يجيب على أسئلة الطلاب عن التسجيل ويفهم اللهجة
+10,5,ai,ar,saudi,ابي اسوي بوت يرد على الطلاب بخصوص الجداول والتسجيل
+11,6,ai,ar,msa,نظام يتعرف على وجوه الطلاب لتسجيل الحضور تلقائيا
+12,6,ai,en,en,Face recognition system that marks student attendance automatically
+13,7,ai,ar,msa,نموذج يتنبأ بالطلاب المعرضين للتعثر الدراسي من درجاتهم
+14,7,ai,en,en,Machine learning model that predicts students at risk of failing
+15,8,ai,ar,msa,تحويل الكلام العربي إلى نص لتفريغ المحاضرات
+16,9,app,ar,msa,تطبيق مواقف ذكي يعرض المواقف المتاحة في الجامعة
+17,9,app,ar,saudi,نظام يوريك المواقف الفاضية والمشغولة على طول
+18,10,app,ar,msa,خريطة تفاعلية للجامعة توصلك للمباني والبوابات
+19,10,app,ar,msa,تطبيق خريطة يرشد الزوار داخل الحرم الجامعي
+20,11,app,ar,msa,برنامج مقابلات تجريبية يربط الطلاب بالخريجين، للتسجيل career@uni.edu.sa
+21,11,app,ar,msa,منصة محاكاة مهنية تجهز الطلاب لسوق العمل
+22,12,app,en,en,Mobile app for tracking student attendance using QR codes
+23,12,app,en,en,Flutter app where students scan a QR code to check in to lectures
+24,13,app,ar,msa,منصة ويب لتبادل الكتب المستعملة بين الطلاب، تواصلوا على 0551234567
+25,13,app,ar,saudi,موقع يبيع ويشتري فيه الطلاب كتبهم القديمة
+26,14,app,ar,msa,تطبيق لحجز مواعيد الساعات المكتبية مع الدكاترة
+27,14,app,ar,saudi,ابي تطبيق احجز فيه موعد مع الدكتور بدون ما انتظر
+28,15,app,en,en,Web portal for booking study rooms in the library
+29,15,app,ar,msa,نظام حجز قاعات المذاكرة في المكتبة
+30,16,app,ar,msa,تطبيق يذكر الطلاب بمواعيد الاختبارات والواجبات
+31,17,security,ar,msa,أداة تكشف رسائل التصيد في البريد الجامعي
+32,17,security,ar,msa,نظام ينبه الطلاب من الروابط الاحتيالية قبل فتحها
+33,18,security,ar,msa,نظام كشف اختراق الشبكة باستخدام تعلم الآلة
+34,18,security,en,en,A network intrusion detection system built with machine learning
+35,19,security,ar,msa,أداة تفحص قوة كلمات المرور وتنبه للضعيفة
+36,19,security,en,en,Password strength checker that warns about weak and reused passwords
+37,20,security,ar,msa,مراقبة الشبكة الجامعية واكتشاف الهجمات
+38,20,security,ar,msa,لوحة تعرض محاولات الدخول المشبوهة على أنظمة الجامعة
+39,21,security,ar,msa,تشفير ملفات الطلاب قبل رفعها على السحابة
+40,21,security,en,en,Tool that encrypts student files before uploading them to the cloud
+41,22,security,ar,msa,أداة تفحص ثغرات مواقع الجامعة وتطلع تقريرا
+42,22,security,ar,saudi,سوينا سكربت يدور على الثغرات في مواقع الكلية
+43,23,security,ar,msa,نظام تحقق بخطوتين لدخول بوابة الطالب
+44,23,security,en,en,Two-factor authentication for the student portal
+45,24,security,ar,msa,توعية الطلاب بالهندسة الاجتماعية عن طريق لعبة تفاعلية

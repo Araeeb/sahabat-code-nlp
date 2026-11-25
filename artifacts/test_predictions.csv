@@ -1,0 +1,13 @@
+project_id,team_id,category,language,dialect,text,clean_text,label,length,pred_baseline,pred
+1,1,ai,ar,msa,سلة مهملات ذكية تفرز النفايات باستخدام الذكاء الاصطناعي,سله مهملات ذكيه تفرز النفايات باستخدام الذكاء الاصطناعي,0,short,0,0
+2,1,ai,ar,msa,سلة ذكية تتعرف على البلاستيك والورق والمعدن بالكاميرا و OpenCV,سله ذكيه تتعرف علي البلاستيك والورق والمعدن بالكاميرا و OpenCV,0,long,0,0
+16,9,app,ar,msa,تطبيق مواقف ذكي يعرض المواقف المتاحة في الجامعة,تطبيق مواقف ذكي يعرض المواقف المتاحه في الجامعه,1,short,2,1
+17,9,app,ar,saudi,نظام يوريك المواقف الفاضية والمشغولة على طول,نظام يوريك المواقف الفاضيه والمشغوله علي طول,1,short,2,0
+18,10,app,ar,msa,خريطة تفاعلية للجامعة توصلك للمباني والبوابات,خريطه تفاعليه للجامعه توصلك للمباني والبوابات,1,short,2,1
+19,10,app,ar,msa,تطبيق خريطة يرشد الزوار داخل الحرم الجامعي,تطبيق خريطه يرشد الزوار داخل الحرم الجامعي,1,short,1,1
+22,12,app,en,en,Mobile app for tracking student attendance using QR codes,Mobile app for tracking student attendance using QR codes,1,long,0,0
+23,12,app,en,en,Flutter app where students scan a QR code to check in to lectures,Flutter app where students scan a QR code to check in to lectures,1,long,0,2
+31,17,security,ar,msa,أداة تكشف رسائل التصيد في البريد الجامعي,اداه تكشف رسائل التصيد في البريد الجامعي,2,short,2,2
+32,17,security,ar,msa,نظام ينبه الطلاب من الروابط الاحتيالية قبل فتحها,نظام ينبه الطلاب من الروابط الاحتياليه قبل فتحها,2,short,2,0
+35,19,security,ar,msa,أداة تفحص قوة كلمات المرور وتنبه للضعيفة,اداه تفحص قوه كلمات المرور وتنبه للضعيفه,2,short,2,2
+36,19,security,en,en,Password strength checker that warns about weak and reused passwords,Password strength checker that warns about weak and reused passwords,2,long,0,0

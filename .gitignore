@@ -1,0 +1,13 @@
+# Large model files are rebuilt by train.py
+artifacts/classifier/
+artifacts/runs/
+artifacts/search_index/
+artifacts/baseline.joblib
+*.safetensors
+*.bin
+*.onnx
+
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.env
