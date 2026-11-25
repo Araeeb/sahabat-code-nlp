@@ -4,6 +4,9 @@
 **منصة لمشاريع طلاب كلية الحاسب، مدعومة بمعالجة اللغة الطبيعية بالعربي والإنجليزي**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Araeeb/sahabat-code-nlp/blob/main/notebooks/Run_in_Colab.ipynb)
+## 🎬 الديمو
+
+![Demo](docs/demo.png)
 
 > المشروع النهائي لمقرر **SDA-AIE-211: Natural Language Processing with Transformers**.
 > كل لاب من 1 إلى 7 صار **مكوّن** في المنصة، والمشروع هو دمجها في خدمة وحدة.
